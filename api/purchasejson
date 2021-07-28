@@ -1,0 +1,32 @@
+{
+    "49": {
+        "id": 49,
+        "username": "admin",
+        "gameTitle": "Bloodborne",
+        "price": "25"
+    },
+    "50": {
+        "id": 50,
+        "username": "admin",
+        "gameTitle": "Ori and the Blind Forest: Definitive Edition",
+        "price": "50"
+    },
+    "51": {
+        "id": 51,
+        "username": "admin",
+        "gameTitle": "Red Dead Redemption 2",
+        "price": "70"
+    },
+    "52": {
+        "id": 52,
+        "username": "admin",
+        "gameTitle": "Celeste",
+        "price": "20"
+    },
+    "54": {
+        "id": 54,
+        "username": "admin",
+        "gameTitle": "Hollow Knight",
+        "price": "20"
+    }
+}

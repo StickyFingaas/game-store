@@ -1,0 +1,23 @@
+[
+    {
+        "username": "admin",
+        "password": "admin",
+        "nameSurname": "Ad Meem",
+        "email": "admin@gmail.com",
+        "picture": "img\/author-thumbs\/1.jpg"
+    },
+    {
+        "username": "user1",
+        "password": "user1",
+        "nameSurname": "Sinisa Mercedes",
+        "email": "siskomencetic@gmail.com",
+        "picture": "img\/author-thumbs\/4.jpg"
+    },
+    {
+        "username": "aljosa",
+        "password": "aleksa98",
+        "nameSurname": "Aljo Aksentijevic",
+        "email": "aljo69@gmail.com",
+        "picture": "img\/author-thumbs\/2.jpg"
+    }
+]

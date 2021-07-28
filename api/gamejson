@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Divinity: Original Sin II - Definitive Edition",
+        "grade": 93,
+        "description": "Set a thousand years after the first game, Divinity: Original Sin II presents a darker, more grounded narrative and expands on the tactical combat system of its award-winning predecessor. In Divinity: Original Sin, you were on a quest for the forbidden Source magic.",
+        "year": "2019",
+        "genre": "RPG",
+        "platform": "PS4",
+        "price": 60,
+        "image": "img\/blog\/div2.jpg"
+    },
+    {
+        "title": "Red Dead Redemption 2",
+        "grade": 91,
+        "description": "After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive.",
+        "year": "2019",
+        "genre": "Open-World",
+        "platform": "PC",
+        "price": 70,
+        "image": "img\/blog\/rdr2.jpg"
+    },
+    {
+        "title": "Ori and the Blind Forest: Definitive Edition",
+        "grade": 89,
+        "description": "Ori and the Blind Forest: Definitive Edition delivers a multitude of new areas, difficulty options, and gameplay upgrades that should appeal to both new and seasoned Ori players.",
+        "year": "2019",
+        "genre": "Platformer",
+        "platform": "Switch",
+        "price": 50,
+        "image": "img\/blog\/ori.jpg"
+    },
+    {
+        "title": "Bloodborne",
+        "grade": 92,
+        "description": "Bloodborne is an action RPG in which you hunt for answers in the ancient city of Yharnam, now cursed with a strange endemic illness spreading through the streets like a disease. Peril, death and madness infest this dark world, and you're tasked with uncovering its darkest secrets which will be necessary for you to survive. ",
+        "year": "2015",
+        "genre": "Action RPG",
+        "platform": "PS4",
+        "price": 25,
+        "image": "img\/blog\/bb.png"
+    },
+    {
+        "title": "Celeste",
+        "grade": 88,
+        "description": "Help Madeline survive her journey to the top of Celeste Mountain in this super-tight, hand-crafted platformer from the creators of TowerFall.",
+        "year": "2018",
+        "genre": "Platformer",
+        "platform": "PC",
+        "price": 20,
+        "image": "img\/blog\/cel.jpg"
+    },
+    {
+        "title": "Hollow Knight",
+        "grade": 90,
+        "description": "Hollow Knight is a 2D action-adventure game with an emphasis on traditional 2D animation and skillful gameplay. Journey to Hallownest, a vast and ancient underground kingdom inhabited by a bizarre collection of insects and monsters. Players will forge their own path as they explore ruined cities, forests of fungus, temples of bone and other fantastic lands, all on their way to uncovering an ancient mystery.",
+        "year": "2018",
+        "genre": "Metroidvania",
+        "platform": "Switch",
+        "price": 20,
+        "image": "img\/blog\/hk.jpg"
+    },
+    {
+        "title": "The Witcher 3 - Wild Hunt GOTY",
+        "grade": 93,
+        "description": "With the Empire attacking the Kingdoms of the North and the Wild Hunt, a cavalcade of ghastly riders, breathing down your neck, the only way to survive is to fight back. As Geralt of Rivia, a master swordsman and monster hunter, leave none of your enemies standing.",
+        "year": "2015",
+        "genre": "RPG",
+        "platform": "PC",
+        "price": 30,
+        "image": "img\/blog\/w3.jpg"
+    }
+]
